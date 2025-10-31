@@ -1,2 +1,2 @@
 # project1
-jan30
+Hey this is my first project !
